@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesha01b/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/anwesha01b/DSA-C-/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
