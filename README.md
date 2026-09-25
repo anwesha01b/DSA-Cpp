@@ -10,14 +10,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesha01b/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesha01b/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
 | ------- |
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
