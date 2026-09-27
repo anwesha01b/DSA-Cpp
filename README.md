@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesha01b/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
@@ -59,4 +60,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
