@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/anwesha01b/DSA-C-/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/anwesha01b/DSA-C-/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/anwesha01b/DSA-C-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anwesha01b/DSA-C-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/anwesha01b/DSA-C-/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
