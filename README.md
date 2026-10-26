@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesha01b/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/anwesha01b/DSA-C-/tree/master/0162-find-peak-element) |
@@ -135,5 +136,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
