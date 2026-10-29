@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/anwesha01b/DSA-C-/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -178,14 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/anwesha01b/DSA-C-/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/anwesha01b/DSA-C-/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
