@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/anwesha01b/DSA-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/anwesha01b/DSA-C-/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwesha01b/DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anwesha01b/DSA-C-/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/anwesha01b/DSA-C-/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Enumeration
 |  |
 | ------- |
