@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anwesha01b/DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/anwesha01b/DSA-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/anwesha01b/DSA-C-/tree/master/0875-koko-eating-bananas) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anwesha01b/DSA-C-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anwesha01b/DSA-C-/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anwesha01b/DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwesha01b/DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwesha01b/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/anwesha01b/DSA-C-/tree/master/1189-maximum-number-of-balloons) |
