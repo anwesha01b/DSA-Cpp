@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwesha01b/DSA-C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anwesha01b/DSA-C-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/anwesha01b/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/anwesha01b/DSA-C-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anwesha01b/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/anwesha01b/DSA-C-/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anwesha01b/DSA-C-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anwesha01b/DSA-C-/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anwesha01b/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anwesha01b/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
