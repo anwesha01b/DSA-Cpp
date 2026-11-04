@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anwesha01b/DSA-C-/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/anwesha01b/DSA-C-/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/anwesha01b/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/anwesha01b/DSA-C-/tree/master/0290-word-pattern) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anwesha01b/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anwesha01b/DSA-C-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/anwesha01b/DSA-C-/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
