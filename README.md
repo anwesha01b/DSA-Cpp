@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwesha01b/DSA-C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
+| [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anwesha01b/DSA-C-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/anwesha01b/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/anwesha01b/DSA-C-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anwesha01b/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anwesha01b/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwesha01b/DSA-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anwesha01b/DSA-C-/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anwesha01b/DSA-C-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
