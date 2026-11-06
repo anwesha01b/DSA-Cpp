@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/anwesha01b/DSA-C-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anwesha01b/DSA-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwesha01b/DSA-C-/tree/master/0977-squares-of-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/anwesha01b/DSA-C-/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anwesha01b/DSA-C-/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anwesha01b/DSA-C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -259,10 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/anwesha01b/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anwesha01b/DSA-C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/anwesha01b/DSA-C-/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/anwesha01b/DSA-C-/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anwesha01b/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/anwesha01b/DSA-C-/tree/master/0143-reorder-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
