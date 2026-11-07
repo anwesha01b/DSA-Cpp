@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesha01b/DSA-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/anwesha01b/DSA-C-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/anwesha01b/DSA-C-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anwesha01b/DSA-C-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anwesha01b/DSA-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
