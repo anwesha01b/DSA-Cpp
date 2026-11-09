@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/anwesha01b/DSA-C-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anwesha01b/DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/anwesha01b/DSA-C-/tree/master/0643-maximum-average-subarray-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/anwesha01b/DSA-C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/anwesha01b/DSA-C-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwesha01b/DSA-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 ## Counting
