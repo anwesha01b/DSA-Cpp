@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwesha01b/DSA-C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1267-count-servers-that-communicate](https://github.com/anwesha01b/DSA-C-/tree/master/1267-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anwesha01b/DSA-C-/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,10 +290,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anwesha01b/DSA-C-/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/anwesha01b/DSA-C-/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
