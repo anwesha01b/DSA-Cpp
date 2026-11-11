@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/anwesha01b/DSA-C-/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/anwesha01b/DSA-C-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anwesha01b/DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anwesha01b/DSA-C-/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwesha01b/DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anwesha01b/DSA-C-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anwesha01b/DSA-C-/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/anwesha01b/DSA-C-/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
 | ------- |
