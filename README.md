@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwesha01b/DSA-C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1267-count-servers-that-communicate](https://github.com/anwesha01b/DSA-C-/tree/master/1267-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/anwesha01b/DSA-C-/tree/master/1480-running-sum-of-1d-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anwesha01b/DSA-C-/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anwesha01b/DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anwesha01b/DSA-C-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwesha01b/DSA-C-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/anwesha01b/DSA-C-/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
