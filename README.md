@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anwesha01b/DSA-C-/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anwesha01b/DSA-C-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/anwesha01b/DSA-C-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwesha01b/DSA-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anwesha01b/DSA-C-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/anwesha01b/DSA-C-/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesha01b/DSA-C-/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/1382-balance-a-binary-search-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anwesha01b/DSA-C-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anwesha01b/DSA-C-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
