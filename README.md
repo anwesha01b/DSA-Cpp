@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anwesha01b/DSA-C-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anwesha01b/DSA-C-/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/anwesha01b/DSA-C-/tree/master/0414-third-maximum-number) |
+| [0427-construct-quad-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0427-construct-quad-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anwesha01b/DSA-C-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/anwesha01b/DSA-C-/tree/master/0643-maximum-average-subarray-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/anwesha01b/DSA-C-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0427-construct-quad-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/1382-balance-a-binary-search-tree) |
 ## Database
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anwesha01b/DSA-C-/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0427-construct-quad-tree) |
 | [1267-count-servers-that-communicate](https://github.com/anwesha01b/DSA-C-/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/anwesha01b/DSA-C-/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/anwesha01b/DSA-C-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anwesha01b/DSA-C-/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0427-construct-quad-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
