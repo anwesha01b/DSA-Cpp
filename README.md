@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/anwesha01b/DSA-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anwesha01b/DSA-C-/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/anwesha01b/DSA-C-/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwesha01b/DSA-C-/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwesha01b/DSA-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwesha01b/DSA-C-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anwesha01b/DSA-C-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesha01b/DSA-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/anwesha01b/DSA-C-/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/anwesha01b/DSA-C-/tree/master/1382-balance-a-binary-search-tree) |
 ## Database
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/anwesha01b/DSA-C-/tree/master/1014-best-sightseeing-pair) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anwesha01b/DSA-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anwesha01b/DSA-C-/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anwesha01b/DSA-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
