@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/anwesha01b/DSA-C-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/anwesha01b/DSA-C-/tree/master/1014-best-sightseeing-pair) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anwesha01b/DSA-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/anwesha01b/DSA-C-/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/anwesha01b/DSA-C-/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anwesha01b/DSA-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3360-stone-removal-game](https://github.com/anwesha01b/DSA-C-/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anwesha01b/DSA-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/anwesha01b/DSA-C-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/anwesha01b/DSA-C-/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/anwesha01b/DSA-C-/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/anwesha01b/DSA-C-/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anwesha01b/DSA-C-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
