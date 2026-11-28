@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anwesha01b/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anwesha01b/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anwesha01b/DSA-C-/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/anwesha01b/DSA-C-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anwesha01b/DSA-C-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anwesha01b/DSA-C-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anwesha01b/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/anwesha01b/DSA-C-/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/anwesha01b/DSA-C-/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anwesha01b/DSA-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -355,5 +357,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anwesha01b/DSA-C-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anwesha01b/DSA-C-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
